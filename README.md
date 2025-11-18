@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Emon-Ahmed.
+<h1 align="center">Hi 👋, I'm Emon Ahmed</h1>
+<h3 align="center">A passionate MERN Stack Developer from BD</h3>
+
 - 👀 I’m interested in web Development.
 - 🌱 I’m currently working with react.
 - 📫 How to reach me?

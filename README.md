@@ -9,7 +9,7 @@
 -fb: https://www.facebook.com/share/1BP3aoTWg3/
 -ig: https://www.instagram.com/emon_ahmed_60?igsh=YTJ6YjAwcjg5c24y
 
--gmail: emon.webdev60@gmail.com
+-gmail: iam.emon60@gmail.com
 
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
